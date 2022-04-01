@@ -23,7 +23,7 @@
             android:name=".WallpaperService"
             android:enabled="true"
             android:exported="true"
-            android:label="Wallpaper example"
+            android:label="Sky wallpaper"
             android:permission="android.permission.BIND_WALLPAPER">
 
             <meta-data

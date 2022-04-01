@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Wallpaper</string>
-    <string name="wallpaper_description">Example wallpaper</string>
-    <string name="choose_wallpaper">Choose wallpaper</string>
+    <string name="sky_wallpaper_description">Sky wallpaper</string>
+    <string name="go_to_sky_wallpaper">Go to \"Sky wallpaper\"</string>
 </resources>
